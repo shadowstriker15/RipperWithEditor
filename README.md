@@ -37,4 +37,6 @@ As with the Downloader Page, click the 'Next' button located at the top right if
 
 After all MP3 files have been configured, you will now have completed audio files available located in the Songs folder in the program's active directory.
 
+To safely close the application, click the 'Start Page' button to then click the 'Exit' button at the bottom of the page.
+
 Enjoy!
