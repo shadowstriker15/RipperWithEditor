@@ -1,10 +1,12 @@
 # RipperWithEditor
-YouTube audio ripper with editor and configurator (ffmpeg REQUIRED)
+YouTube audio ripper with editor and configurator (ffmpeg REQUIRED, WIN directories)
 
 IMPORTANT - Installation of ffmpeg is necessary to access all functions of the program
 (which can be found here https://ffmpeg.org/download.html).
 
--------------------------------------------------------------------------------------------------------------------------------------------
+Directories made with Windows OS considered.
+
+----------------------------------------------------------------------------------------------------------------------------------------
 Instructions:
 On load up, click the 'Downloader' button
 
