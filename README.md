@@ -6,6 +6,10 @@ IMPORTANT - Installation of ffmpeg is necessary to access all functions of the p
 
 Directories made with Windows OS considered.
 
+Core Python modules used: youtube_dl, tkinter, and librosa
+
+The functions of this program include but not limited to: downloading YouTube audio from YouTube urls (youtube_dl), playing audio with a tkinter custom-made media player (pyaudio, tkinter), trimming audio wav files (librosa), converting wav files to mp3 files (pydub), uploading an album cover to an mp3 file and configurating mp3 tags (eyed3).
+
 ----------------------------------------------------------------------------------------------------------------------------------------
 Instructions:
 On load up, click the 'Downloader' button
