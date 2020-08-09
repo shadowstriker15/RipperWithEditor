@@ -14,7 +14,7 @@ The functions of this program include but not limited to: downloading YouTube au
 Instructions:
 On load up, click the 'Downloader' button
 
-![StartPage](Pictures/1. StartPage.PNG?raw=true "StartPage")
+![StartPage](<https://github.com/shadowstriker15/RipperWithEditor/blob/master/Pictures/1. StartPage.png?raw=true>)
 
 Plug in a YouTube video url or a public YouTube playlist. Click 'Download' button.
 (Use the terminal alongside to see the progress of the download(s) and other information)
