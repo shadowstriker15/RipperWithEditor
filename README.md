@@ -14,14 +14,20 @@ The functions of this program include but not limited to: downloading YouTube au
 Instructions:
 On load up, click the 'Downloader' button
 
+[Start page](Pictures/1. StartPage.PNG)
+
 Plug in a YouTube video url or a public YouTube playlist. Click 'Download' button.
 (Use the terminal alongside to see the progress of the download(s) and other information)
+
+[Downloader](Pictures/2. Downloader.PNG)
 
 Once done downloading, click the 'Start Page' button.
 
 Click on the 'Audio Player' button to allow for trimming.
 
 Click the 'Refresh' button at the top right.
+
+[AudioPlayer](Pictures/3. AudioPlayer.PNG)
 
 Use the sliders to play through the songs and trim if necessary.
 
@@ -32,6 +38,8 @@ Once satisfied with all the audio, click the 'Convert Files' button at the botto
 Click the 'Start Page' button to go back.
 
 Click on the 'MP3 Configurator'.
+
+[MP3Configurator](Pictures/4. MP3Configurator.PNG)
 
 Click the 'Refresh' button at the top right.
 
