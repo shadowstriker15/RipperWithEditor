@@ -14,12 +14,12 @@ The functions of this program include but not limited to: downloading YouTube au
 Instructions:
 On load up, click the 'Downloader' button
 
-![StartPage](<https://github.com/shadowstriker15/RipperWithEditor/blob/master/Pictures/1. StartPage.png?raw=true>)
+<img width="453" alt="1  StartPage" src="https://user-images.githubusercontent.com/1342626/89724950-40fcfa00-d9cf-11ea-947f-2368edd15677.PNG">
 
 Plug in a YouTube video url or a public YouTube playlist. Click 'Download' button.
 (Use the terminal alongside to see the progress of the download(s) and other information)
 
-[Downloader](Pictures/2. Downloader.PNG)
+<img width="452" alt="2  Downloader" src="https://user-images.githubusercontent.com/1342626/89724958-5d009b80-d9cf-11ea-82c7-85ab907339ee.PNG">
 
 Once done downloading, click the 'Start Page' button.
 
@@ -27,7 +27,7 @@ Click on the 'Audio Player' button to allow for trimming.
 
 Click the 'Refresh' button at the top right.
 
-[AudioPlayer](Pictures/3. AudioPlayer.PNG)
+<img width="451" alt="3  AudioPlayer" src="https://user-images.githubusercontent.com/1342626/89724963-65f16d00-d9cf-11ea-9cd5-9fc64f59273b.PNG">
 
 Use the sliders to play through the songs and trim if necessary.
 
@@ -39,7 +39,7 @@ Click the 'Start Page' button to go back.
 
 Click on the 'MP3 Configurator'.
 
-[MP3Configurator](Pictures/4. MP3Configurator.PNG)
+<img width="454" alt="4  MP3Configurator" src="https://user-images.githubusercontent.com/1342626/89724970-71449880-d9cf-11ea-8527-cb911f475ffd.PNG">
 
 Click the 'Refresh' button at the top right.
 
